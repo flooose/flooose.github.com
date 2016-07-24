@@ -1,6 +1,6 @@
 ---
 title: Short circuiting Rake in Rails
-layout: post-03242013
+layout: post-03242013.html
 published: true
 ---
 h2. Short circuiting Rake in Rails

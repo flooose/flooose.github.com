@@ -1,0 +1,15 @@
+{
+  "source": ".",
+  "destination": "_site",
+  "plugins": {
+    "metalsmith-drafts": true,
+    "metalsmith-markdown": true,
+    "metalsmith-permalinks": "posts/:title",
+    "metalsmith-layouts": {
+      "engine": "handlebars",
+      "default": "post-03242013.html",
+      "pattern": "*.html",
+      "directory": "_layouts"
+    }
+  }
+}

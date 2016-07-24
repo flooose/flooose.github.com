@@ -10,3 +10,4 @@ _site/
 *#
 .#*
 .Rhistory
+/node_modules

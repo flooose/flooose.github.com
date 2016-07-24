@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Hacking
-layout: post-03242013
+layout: post-03242013.html
 published: false
 ---
 h1. Thoughts on Hacking

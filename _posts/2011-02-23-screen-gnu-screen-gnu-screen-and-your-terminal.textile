@@ -1,6 +1,6 @@
 ---
 title: Hands off! An attempt at a mouseless work-flow with Gnu Screen
-layout: post-03242013
+layout: post-03242013.html
 published: true
 ---
 h2. Hands off! An attempt at a mouseless work-flow with Gnu Screen

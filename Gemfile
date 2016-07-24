@@ -1,7 +1,7 @@
 # A sample Gemfile
 source "http://rubygems.org"
 
-gem 'jekyll', '~> 2.5.3'
+gem 'jekyll', '~> 3.1.3'
 gem 'rb-inotify'
 gem 'RedCloth'
 gem 'kramdown'

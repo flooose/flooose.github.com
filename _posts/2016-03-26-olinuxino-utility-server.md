@@ -1,6 +1,6 @@
 ---
 title: an olinuxino Utility Server hack
-layout: post-03242013
+layout: post-03242013.html
 published: true
 tags: [arch-linux-arm, olinuxino]
 ---

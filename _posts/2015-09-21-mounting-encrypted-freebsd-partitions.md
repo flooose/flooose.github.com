@@ -1,6 +1,6 @@
 ---
 title: Mounting encrypted geli partitions
-layout: post-03242013
+layout: post-03242013.html
 published: true
 tags: [freebsd, geli]
 ---

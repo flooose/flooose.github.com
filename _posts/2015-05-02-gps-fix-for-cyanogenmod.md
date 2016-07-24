@@ -1,6 +1,6 @@
 ---
 title: Broken gps on cyanogenmod
-layout: post-03242013
+layout: post-03242013.html
 published: true
 tags: [android, cyanogenmod]
 ---

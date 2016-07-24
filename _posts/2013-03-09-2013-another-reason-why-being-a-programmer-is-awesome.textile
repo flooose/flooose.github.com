@@ -1,6 +1,6 @@
 ---
 title: Another reason why being a programmer is awesome
-layout: post-03242013
+layout: post-03242013.html
 published: true
 ---
 
