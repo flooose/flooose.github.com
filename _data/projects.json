@@ -1,16 +1,30 @@
 [
   {
+    "when": "2020",
+    "who": "sumcumo GmbH",
+    "description": "Digital solutions for insurance companies in and around Germany",
+    "role": "Senior Back-end Developer",
+    "technologies": "Ruby on Rails, GraphQL, Gitlab, Gitlab-CI, Docker, Ruby Gems"
+  },
+  {
+    "when": "2020",
+    "who": "L3Harris",
+    "description": "Webapp for searching, aggregating and distributing geodata",
+    "role": "Senior Back-end Developer; Front-end Developer. Developed features. Cleaned up and documented legacy code. Dealt with various aspects of tech-stack like deployment or troubleshooting the CI.",
+    "technologies": "Docker, Spring Boot, Java, Vue.js"
+  },
+  {
     "when": "2018 &ndash; 2020",
     "who": "mindmatters GmbH",
     "description": "Management tool for online advertising campaigns",
-    "role": "Transition team senior; fullstack developer. Helped migrate project from one developer team to another",
-    "technologies": "Docker, Rails, Backbone.js/Marionette.js, Elm, Twitter Bootstrap, jQuery"
+    "role": "Transition Team Senior; Full-Stack Developer. Helped migrate project to new developer team. Assisted in knowledge-transfer and continued development of legacy code."
+    "technologies": "Docker, Rails, Elm, Backbone.js/Marionette.js, Twitter Bootstrap, jQuery"
   },
   {
     "when": "2016 &ndash; 2018",
     "who": "mindmatters GmbH",
     "description": "Onboarding Platform for an Online Payment Provider",
-    "role": "Full stack developer",
+    "role": "Full-Stack Developer",
     "technologies": "TypeScript, Angular &ge; 2, Rxjs, SalesForce Lightning Design, MSSQL, Docker (for local development), Heroku, CircleCI 2"
   },
   {
@@ -31,42 +45,42 @@
     "when": "2015",
     "who": "mindmatters GmbH",
     "description": "Desktop \"teaser\" configurator for online shop",
-    "role": "Fullstack developer: electron",
+    "role": "Full-Stack Developer: electron",
     "technologies": "Electron, React.js, Node.js"
   },
   {
     "when": "2015",
     "who": "mindmatters GmbH",
     "description": "Infrastructure management of legacy systems",
-    "role": "Backend developer",
+    "role": "Back-End Developer",
     "technologies": "Chef, Opensuse, Nodejs, shell script (bash), RPM packages"
   },
   {
     "when": "2013 &ndash; 2015",
     "who": "mindmatters GmbH",
     "description": "Management tool for online advertising campaigns",
-    "role": "Full stack developer",
+    "role": "Full-Stack Developer",
     "technologies": "Rails, Docker, Backbone.js/Marionette.js, Puppet before we migrated to Docker, Coffeescript, Nodejs, Postgresql"
   },
   {
     "when": "2012 &ndash; 2013",
     "who": "mindmatters GmbH",
     "description": "Media-contact CRM",
-    "role": "Full stack developer",
+    "role": "Full-Stack Developer",
     "technologies": "Rails, jQueryUI, Solr, Postgresql, Chef"
   },
   {
     "when": "2011 &ndash; 2012",
     "who": "Propertybase GmbH",
     "description": "Real Estate CRM",
-    "role": "Junior developer",
+    "role": "Junior Developer",
     "technologies": "Backbone.js, Rails, Heroku"
   },
   {
     "when": "2009 &ndash; 2011",
     "who": "advaBusiness Software GmbH",
     "description": "Infrastructure Management for an SAAS CMS",
-    "role": "Junior developer: backend",
+    "role": "Junior Developer: Back",
     "technologies": "Rails, Cucumber, Puppet"
   }
 ]
